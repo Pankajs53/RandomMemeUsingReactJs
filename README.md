@@ -26,4 +26,4 @@ Custom Hook:
 useGif: Handles the logic for fetching GIFs from the Giphy API.
 Styling:
 
-Styles are managed using Tailwind CSS for a responsive and clean layout.
+Styles are managed using Tailwind CSS and can be made more better.
