@@ -1,0 +1,20 @@
+/* styles.css */
+
+.background {
+  background-color: #7C83FD; /* Use your desired color */
+}
+
+.title {
+  color: #000; /* Use your desired color */
+  border: 8px solid #fff; /* Use your desired color */
+  font-size: 40px;
+}
+
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .title {
+    font-size: 30px;
+  }
+}
+
+/* Add more media queries as needed for different screen sizes */
